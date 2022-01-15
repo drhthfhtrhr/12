@@ -1,7 +1,7 @@
 {
-    "name": "XrayHeroku",
-    "description": "xray websocket proxy on heroku",
-    "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
+    "name": "dgdrhgdrher46s",
+    "description": "dgdrhgdrher46s",
+    "keywords": ["dgdrhgdrher46s"],
     "env": {
         "AA": {
             "description": "初阶用户只需修改以下AUUID点击页面最后的Deploy app按钮即可开始部署",
@@ -9,10 +9,10 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "ffffffff-ffff-ffff-ffff-ffffffffffff"
+            "value": "68ab790d-0d72-47fc-abdc-e9333e5927be"
         },
         "CADDYIndexPage": {
-            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
+            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/ThekingMX1998/HerokuXray/blob/master/etc/CADDYIndexPage.md",
             "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
         },
         "CONFIGCADDY": {
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/ThekingMX1998/HerokuXray/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/Lbingyi/XrayHeroku",
+    "website": "https://github.com/ThekingMX1998/XrayHeroku",
     "repository": "https://github.com/ThekingMX1998/XrayHeroku",
     "stack": "container"
 }
